@@ -1,0 +1,7 @@
+name = "wrangler-proxy-r2-bug"
+compatibility_date = "2023-07-02"
+
+[[r2_buckets]]
+binding = 'R2'
+bucket_name = 'chientrm'
+preview_bucket_name = 'chientrm'
